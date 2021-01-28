@@ -5,7 +5,7 @@ Api desenvolvida desenvolvida utilizando a linguaguem c#.
 ## Tecnologias utilizadas
 
 - [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/)
-- [Swagger](https://swagger.io/) ```2.9.2```
+- [Swagger](https://swagger.io/) 
 
 ## Uso
 Clone
